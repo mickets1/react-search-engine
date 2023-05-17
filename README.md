@@ -1,19 +1,14 @@
-# A3 - Search Engine
+React Search Engine
 
 Installation instructions:
-cd api \ npm i \ npm start
-
-cd ui \ npm i \ npm start
+cd api  
+npm i  
+npm start  
 
 ## Description
 A basic React search engine for Wikipedia articles.
 
-## Submission instructions
-
-See the [Deadlines and Submissions](https://coursepress.lnu.se/courses/web-intelligence/study-guide/deadlines-and-submissions) page.
-
 ## Requirements
-
 <table>
   <tr>
     <td>
